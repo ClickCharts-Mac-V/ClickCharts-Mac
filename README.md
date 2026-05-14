@@ -25,7 +25,7 @@
 The <a href="#">export format coverage</a> saves completed diagrams as PNG, JPEG, PDF, SVG, and other formats for inclusion in documents, presentations, and reports without requiring the recipient to have ClickCharts installed to view the diagram. <a href="#">Multiple diagram pages</a> organize complex documentation as multi-page diagram files where each page contains a related section of a larger diagram set, keeping related diagrams together in one file.
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/338794/m/clickcharts-screenshot.png?v=1660904567" alt="ClickCharts screenshot"/>
+  <img src="https://mac-cdn.softpedia.com/screenshots/ClickCharts-Diagram-Flowchart-Software_6.jpg" alt="ClickCharts screenshot"/>
 </p>
 
 <a href="#">Color and style controls</a> configure fill colors, line styles, border weights, and fonts for shapes and connectors to match organizational style guides, document color schemes, or simply produce visually distinct diagram elements. <a href="#">Layer management</a> organizes diagram elements into labeled layers for showing and hiding related element groups — useful for diagrams that have multiple views or detail levels.
